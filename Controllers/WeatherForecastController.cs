@@ -32,7 +32,7 @@ namespace test.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public string Get()
         {
-            return "UTKU";
+            return "asd";
         }
     }
 }
